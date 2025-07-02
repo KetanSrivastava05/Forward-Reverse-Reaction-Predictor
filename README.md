@@ -85,9 +85,13 @@ reverse_partial
 K10-Reaction-Predictor/
 │
 ├── app.py                   # Streamlit app
+
 ├── requirements.txt         # All Python dependencies
+
 ├── README.md     
+
 ├── reaction.txt             #SMILES format dataset        
+
 🧠 Model Inference
 Loaded directly from Hugging Face Hub using:
 
