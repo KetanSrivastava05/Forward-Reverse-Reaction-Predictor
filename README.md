@@ -83,6 +83,7 @@ reverse_partial
 📂 Folder Structure
 
 K10-Reaction-Predictor/
+
 │
 ├── app.py                   # Streamlit app
 
